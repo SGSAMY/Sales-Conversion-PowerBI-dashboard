@@ -94,4 +94,14 @@ CALCULATE(
 This project was created as part of my Business Intelligence and Data Analytics portfolio to demonstrate Power BI, DAX, KPI reporting, forecasting, and dashboard storytelling capabilities.
 
 ## Author
-Satheesh Gurusamy
+
+### Satheesh Gurusamy
+
+## Connect
+
+### LinkedIn
+
+https://www.linkedin.com/in/satheeshgurusamy
+
+### GitHub:
+https://github.com/SGSAMY
